@@ -8,9 +8,14 @@
 - 60% of the paper came from **PYQ** .
 - **Flow** :- **`Concept`** → **`oneshot`** → **`solved examples`** → **`PYQ's`** .
 
+
+##### Physics :-
+
+- 
+
 ##### Mathematics :-
 
-- do not chase all - **`15 Chapters`** - instead target any **`8-10 Chapters`** of **high weightage .**
+- do not chase all chapters - instead target any **`10-12 Chapters`** of **high weightage .**
 - do each question of selected chapters atleast **2 Times** .
 - focus on **Solved Examples** & **PYQ's** .
 
