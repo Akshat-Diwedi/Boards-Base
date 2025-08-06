@@ -2,9 +2,9 @@
 ---
 
 
-# Strategic Study Plan for Maharashtra State Board Class 12 (Physics, Chemistry, Mathematics)
+# Strategic Study Plan for Maharashtra State Board (PCM)
 
-**Main Takeaway:** Focus on the 12 chapters per subject that carry the highest weightage and are conceptually clear, then follow the month-wise schedule below to complete the syllabus by December 2025 with ample revision.
+**Main Takeaway :** Focus on the 12 chapters per subject that carry the highest weightage and are conceptually clear, then follow the month-wise schedule below to complete the syllabus by December 2025 with ample revision.
 
 ## 1. Accurate Weightage Tables
 
@@ -173,22 +173,31 @@ Exclude 3 lowest: Linear Programming (2), App. of Def. Integration (2), Binomial
 
 ---
 
-
 ### Weekly Schedule :-
 
 
-| Day       | Subject     | Flow                                                                | Morning         | Evening          |
-| --------- | ----------- | ------------------------------------------------------------------- | --------------- | ---------------- |
-| Monday    | Chemistry   | - Concept .<br>- Book Reading .<br>- Solved Examples .<br>- PYQ's . | 5:00AM - 7:00AM | 7:00AM - 12:00AM |
-| Tuesday   | Mathematics | - 5 Exercise per day .<br>- 1 chapter/week .                        |                 |                  |
-| Wednesday | Chemistry   |                                                                     |                 |                  |
-| Thursday  | Mathematics |                                                                     |                 |                  |
-| Friday    | Physics     |                                                                     |                 |                  |
-| Saturday  | Physics     |                                                                     |                 |                  |
-| Sunday    |             |                                                                     |                 |                  |
+- **Morning** - ==`5:00AM-7:00AM`== , used for revision of previous day !
+- **Evening**  - ==`7:00PM-12:00PM`== , time for **deep-study** !
+
+| Subject       | Flow                                                                | Days                      |
+| ------------- | ------------------------------------------------------------------- | ------------------------- |
+| ==*Physics*== | - Concept .<br>- Book Reading .<br>- Solved Examples .<br>- PYQ's . | `Monday` .<br>`Tuesday` . |
+
+| Subject         | Flow                                                                | Days                          |
+| --------------- | ------------------------------------------------------------------- | ----------------------------- |
+| ==*Chemistry*== | - Concept .<br>- Book Reading .<br>- Solved Examples .<br>- PYQ's . | `Wednesday` .<br>`Thursday` . |
+
+| Subject           | Flow                                     | Days                       |
+| ----------------- | ---------------------------------------- | -------------------------- |
+| ==*Mathematics*== | - 5 Exercise/day .<br>- 1 chapter/week . | `Friday` .<br>`Saturday` . |
+
+| Subject               | Flow                                                                  | Days     |
+| --------------------- | --------------------------------------------------------------------- | -------- |
+| ==*Choice is yours*== | - can be used for studying **`English`** , **`Economics`** , **`IT`** | `Sunday` |
+
 
 > [!important]
-> Don't forget to do back exercises and solved examples of chemistry and physics . a large portion of boards exam depends on it 💀
+> Don't forget to do back exercises and solved examples of **`Chemistry`** and **`Physics`** . a large portion of boards exam depends on it 💀
 
 
 ---
@@ -197,5 +206,61 @@ Exclude 3 lowest: Linear Programming (2), App. of Def. Integration (2), Binomial
 #### Prompt i gave AI to generate this :-
 
 ```
-I need a strategic study plan for Maharashtra State Board Class 12th Physics, Chemistry and Mathematics. Here are my exact requirements: ## CONTEXT: - **Subject:** Physics, Chemistry and Mathematics (Class 12 Maharashtra State Board) - **Total chapters:** 16 chapters in Physics, 16 chapters in Chemistry, 15 chapters in Mathematics - **My constraint:** Can only study 12 chapters from each subject - **Timeline:** Starting August 1, 2025 to complete before end of December 2025 - **Student level:** Average student ## WHAT I NEED : ### 1. ACCURATE WEIGHTAGE TABLES (Research from trusted/official sources): - Create tables showing all chapters for Physics (16), Chemistry (16), and Mathematics (15) - Include weightage for both "With Options" and "Without Options" - Verify accuracy especially for chapters like Wave Optics ### 2. STRATEGIC CHAPTER SELECTION: - **Physics:** Select 12 from 16 chapters - **Chemistry:** Select 12 from 16 chapters - **Mathematics:** Select 12 from 15 chapters - **Selection criteria:** HIGH WEIGHTAGE + EASE OF UNDERSTANDING + TIME EFFICIENCY - Prioritize chapters suitable for average students - Focus on conceptually clear and formula-based topics - Avoid extremely theory-heavy or complex chapters ### 3. MONTH-WISE STUDY TIMELINE: - **August 2025:** Foundation chapters - **September 2025:** Core concepts - **October 2025:** Advanced topics - **November 2025:** Remaining chapters - **December 2025:** Revision ## FORMAT REQUIREMENTS: - Keep the response CONCISE and QUICK-READ - Use clear tables and bullet points - No lengthy explanations - Straight to the point recommendations - Include total weightage coverage for selected chapters **IMPORTANT:** Do proper research from official Maharashtra State Board sources for accurate weightages. Don't guess or use outdated information.
+# I need a strategic study plan for Maharashtra State Board Class 12th Physics, Chemistry and Mathematics
+
+Here are my exact requirements:
+
+---
+
+## CONTEXT:
+
+- **Subject:** Physics, Chemistry and Mathematics (Class 12 Maharashtra State Board)
+- **Total chapters:** 16 chapters in Physics, 16 chapters in Chemistry, 15 chapters in Mathematics
+- **My constraint:** Can only study 12 chapters from each subject
+- **Timeline:** Starting August 1, 2025 to complete before end of December 2025
+- **Student level:** Average student
+
+---
+
+## WHAT I NEED :
+
+### 1. ACCURATE WEIGHTAGE TABLES (Research from trusted/official sources):
+
+- Create tables showing all chapters for Physics (16), Chemistry (16), and Mathematics (15)  
+- Include weightage for both "With Options" and "Without Options"
+- Verify accuracy especially for chapters like Wave Optics
+
+### 2. STRATEGIC CHAPTER SELECTION:
+
+- **Physics:** Select 12 from 16 chapters
+- **Chemistry:** Select 12 from 16 chapters 
+- **Mathematics:** Select 12 from 15 chapters
+- **Selection criteria:** HIGH WEIGHTAGE + EASE OF UNDERSTANDING + TIME EFFICIENCY 
+- Prioritize chapters suitable for average students 
+- Focus on conceptually clear and formula-based topics
+- Avoid extremely theory-heavy or complex chapters
+
+### 3. MONTH-WISE STUDY TIMELINE:
+
+- **August 2025:** Foundation chapters
+- **September 2025:** Core concepts
+- **October 2025:** Advanced topics
+- **November 2025:** Remaining chapters
+- **December 2025:** Revision
+
+---
+
+## FORMAT REQUIREMENTS:
+
+- Keep the response CONCISE and QUICK-READ
+- Use clear tables and bullet points
+- No lengthy explanations
+- Straight to the point recommendations
+- Include total weightage coverage for selected chapters
+
+---
+
+**IMPORTANT:** Do proper research from official Maharashtra State Board sources for accurate weightages. Don't guess or use outdated information.
+
+---
 ```
