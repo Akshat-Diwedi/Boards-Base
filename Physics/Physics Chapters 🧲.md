@@ -1,24 +1,28 @@
 
 ---
 
+`Note` : Highlighted chapters are of low weightage or in low-priority in our strategy .
+
 ##### Mechanics :
-- [ ] Rotational Dynamics .
+- [x] Rotational Dynamics .
 - [ ] Mechanical Properties of Fluids .
 ##### Thermal :
 - [ ] Kinetic Theory of Gases and Radiation .
 - [ ] Thermodynamics .
 ##### Wave :
-- [ ] Oscillations .
+- [ ] ===Oscillations .===
 - [ ] Superposition of Waves .
 - [ ] Wave Optics .
 ##### Electro Physics :
-- [ ] Electrostatics .
+- [ ] Electrostatics [ https://www.youtube.com/watch?v=NAO4pxEhX2o ] .
 - [ ] Current Electricity .
 - [ ] Magnetic Fields due to Electric Current .
-- [ ] Magnetic Materials .
+- [ ] ===Magnetic Materials .===
 - [ ] Electromagnetic Induction .
 - [ ] AC Circuits .
 ##### Modern Physics :
-- [ ] Dual Nature of Radiation and Matter .
+- [ ] ===Dual Nature of Radiation and Matter .===
 - [ ] Structure of Atoms and Nuclei .
-- [ ] Semiconductor Devices .
+- [ ] ===Semiconductor Devices .===
+
+---

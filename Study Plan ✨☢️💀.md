@@ -73,11 +73,11 @@
 
 ---
 
-### 3. Month‐Wise Study Timeline
+## 3. Month‐Wise Study Timeline
 
 | Month | Focus                     | Physics                                                                            | Chemistry                                                                             | Mathematics                                                                   |
 | ----- | ------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Aug   | Foundation                | ==Rotational Dynamics.==<br>==Electrostatics .==<br>Current Electricity .          | ==Alcohols, Phenols, Ethers .==<br>Solid State .<br>Solutions .                       | ==Mathematical Logic==<br>==Matrices==<br>Pair of Straight Lines              |
+| Aug   | Foundation                | ==Rotational Dynamics.==<br>Electrostatics .<br>Current Electricity .              | ==Alcohols, Phenols, Ethers .==<br>Solid State .<br>Solutions .                       | ==Mathematical Logic==<br>==Matrices==<br>Pair of Straight Lines              |
 | Sept  | Core <br>Concepts         | Mech. Prop. of Fluids<br>Kinetic Theory<br>Thermodynamics                          | Ionic Equilibrium<br>Chemical Thermodynamics<br>Electrochemistry                      | Differentiation<br>Application of Derivatives<br>Definite Integration         |
 | Oct   | Advanced <br>Topics       | Wave Optics<br>Electromagnetic Induction<br>AC Circuits                            | Chemical Kinetics<br>Groups 16–18<br>Transition & Inner Transition                    | Indefinite Integration<br>Differential Equations<br>Probability Distributions |
 | Nov   | Remaining Chapters        | Magnetic Fields (Current)<br>Structure of Atoms & Nuclei<br>Superposition of Waves | Coordination Compounds<br>Halogen Derivatives<br>Aldehydes, Ketones, Carboxylic Acids | Vectors<br>Trigonometric Functions<br>Line & Plane                            |
@@ -96,7 +96,7 @@
 
 ---
 
-### Date-sheet :-
+## 4. Date-sheet :-
 
 | Date          | Day          | Subject         | Status |
 | ------------- | ------------ | --------------- | ------ |
@@ -104,18 +104,19 @@
 | 7th August    | Thursday     |                 | ✅      |
 | 8th August    | Friday       |                 | ✅      |
 | 9th August    | Saturday     |                 | ✅      |
-| 10th August   | Sunday       |                 | ❌      |
-| ------------- | ------------ | --------------  | ❌      |
-| 11th August   | Monday       | **Physics**     | ❌      |
-| 12th August   | Tuesday      |                 | ❌      |
-| 13th August   | Wednesday    | **Info & Tech** | ❌      |
-| 14th August   | Thursday     | **English**     | ❌      |
-| 15th August   |              |                 | ❌      |
-| 16th August   |              |                 | ❌      |
-| 17th August   |              |                 | ❌      |
-| 18th August   | Monday       | **Mathematics** | ❌      |
-| 19th August   | Tuesday      | **Chemistry**   | ❌      |
+| 10th August   | Sunday       |                 | ✅      |
+| ------------- | ------------ | --------------  | 🔱     |
+| 11th August   | Monday       | **Physics**     | ✅      |
+| 12th August   | Tuesday      |                 | ✅      |
+| 13th August   | Wednesday    | **Info & Tech** | ✅      |
+| 14th August   | Thursday     | **English**     | ✅      |
+| 15th August   |              |                 | ✅      |
+| 16th August   |              |                 | ✅      |
+| 17th August   |              |                 | ✅      |
+| 18th August   | Monday       | **Mathematics** | ✅      |
+| 19th August   | Tuesday      | **Chemistry**   | ✅      |
 | 20th August   | Wednesday    | **Economics**   | ❌      |
+
 
 ### Flow :-
 
@@ -123,30 +124,22 @@
 - [x] 07
 - [x] 08 
 - [x] 09
-- [ ] 10 - Electrostatics + Revision Physics .
+- [x] 10
 
-- [ ] 11 - Physics
-- [ ] 12 -
-- [ ] 13 - Info & Tech
-- [ ] 14 - English
-- [ ] 15 -
-- [ ] 16 -
-- [ ] 17 -
-- [ ] 18 - Mathematics
-- [ ] 19 - Chemistry
+- [x] 11 - Physics
+- [x] 12 -
+- [x] 13 - Info & Tech
+- [x] 14 - English
+- [x] 15 -
+- [x] 16 -
+- [x] 17 -
+- [x] 18 - Mathematics
+- [x] 19 - Chemistry
 - [ ] 20 - Economics
-
-
-#### TEMP :-
-
-- **Electrostatics** - [Lecture-1](https://www.youtube.com/watch?v=OwDmSWAPzZc&list=PLjm_mvBNlvBYDtNKIqFxvdTDrMvuitHaf&index=43) , [Lecture-2](https://www.youtube.com/watch?v=rEvpvCV1H3E&list=PLjm_mvBNlvBYDtNKIqFxvdTDrMvuitHaf&index=44) , [Lecture-3](https://www.youtube.com/watch?v=kUZz4HREPPQ&list=PLjm_mvBNlvBYDtNKIqFxvdTDrMvuitHaf&index=46) .
-
-- **Chemistry** - `Alcohol Phenol & Ethers` - [One-Shot](https://www.youtube.com/watch?v=CgskTku313c)
-
 
 ---
 
-### Weekly Schedule :-
+## 5. Weekly Schedule :-
 
 
 - **Morning** - ==`5:00AM-7:00AM`== , used for revision of previous day !
@@ -176,7 +169,7 @@
 ---
 
 
-#### Prompt i gave AI to generate this :-
+## 6. Prompt i gave AI to generate this :-
 
 ```
 # I need a strategic study plan for Maharashtra State Board Class 12th Physics, Chemistry and Mathematics
@@ -237,3 +230,6 @@ Here are my exact requirements:
 
 ---
 ```
+
+
+---

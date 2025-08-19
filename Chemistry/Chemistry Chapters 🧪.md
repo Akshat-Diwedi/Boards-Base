@@ -74,11 +74,11 @@
 
 ## Context & Objective
 
-I'm a Class 12 Maharashtra State Board student preparing for board exams. Chemistry is my weakest subject, but I need high scores for my final academic year. I require chapter-wise breakdown of fundamental concepts in simple, digestible format.
+I'm a Class 12 Maharashtra State Board student preparing for board exams. physics is my weakest subject, but I need high scores for my final academic year. I require chapter-wise breakdown of fundamental concepts in simple, digestible format.
 
 ## Requirements :
 
-1. **Source Material**: Access Maharashtra Board Class 12 Chemistry textbook PDF online or use provided link: "https://ebooks.ebalbharati.in/pdfs/1203030414.pdf"
+1. **Source Material**: Access Maharashtra Board Class 12 Physics textbook PDF online or use provided link: "https://ebooks.ebalbharati.in/pdfs/1203030414.pdf"
 2. PYQ's : Extract the previous year question papers of boards exams to identify the most important topics .
 3. **Format**: Obsidian-compatible markdown with consistent structure
 4. **Content Depth**: Cover only essential/basic topics - avoid overwhelming detail
@@ -114,25 +114,26 @@ I'm a Class 12 Maharashtra State Board student preparing for board exams. Chemis
 ```
 
 
-## Chapter List (Maharashtra Board Class 12 Chemistry)
+## Chapter List (Maharashtra Board Class 12 Physics )
 
-| No. | Chapter                                  | Marks |
-| --- | ---------------------------------------- | ----- |
-| 1   | Solid State                              | 8     |
-| 2   | Solutions                                | 10    |
-| 3   | Ionic Equilibria                         | 10    |
-| 4   | Chemical Thermodynamics                  | 14    |
-| 5   | Electrochemistry                         | 12    |
-| 6   | Chemical Kinetics                        | 10    |
-| 7   | Elements of Groups 16, 17 and 18         | 14    |
-| 8   | Transition and Inner Transition Elements | 14    |
-| 9   | Coordination Compounds                   | 12    |
-| 10  | Halogen Derivatives                      | 12    |
-| 11  | Alcohols, Phenols and Ethers             | 10    |
-| 12  | Aldehydes, Ketones and Carboxylic Acids  | 14    |
-| 13  | Amines                                   | 7     |
-| 14  | Biomolecules                             | 7     |
-| 15  | Introduction to Polymer Chemistry        | 7     |
-| 16  | Green Chemistry and Nanochemistry        | 7     |
+| Sr. | Chapter                                 | Wt. With Opt. | Wt. Without Opt. |
+| --- | --------------------------------------- | ------------- | ---------------- |
+| 1   | Rotational Dynamics                     | 7 marks       | 5 marks          |
+| 2   | Mechanical Properties of Fluids         | 7 marks       | 5 marks          |
+| 3   | Kinetic Theory of Gases & Radiation     | 7 marks       | 5 marks          |
+| 4   | Thermodynamics                          | 7 marks       | 5 marks          |
+| 5   | Wave Optics                             | 7 marks       | 5 marks          |
+| 6   | Electromagnetic Induction               | 7 marks       | 5 marks          |
+| 7   | Electrostatics                          | 6 marks       | 4 marks          |
+| 8   | Current Electricity                     | 6 marks       | 4 marks          |
+| 9   | Magnetic Fields due to Electric Current | 6 marks       | 4 marks          |
+| 10  | AC Circuits                             | 6 marks       | 4 marks          |
+| 11  | Structure of Atoms & Nuclei             | 6 marks       | 4 marks          |
+| 12  | Oscillations                            | 5 marks       | 4 marks          |
+| 13  | Superposition of Waves                  | 6 marks       | 4 marks          |
+| 14  | Magnetic Materials                      | 5 marks       | 4 marks          |
+| 15  | Dual Nature of Radiation & Matter       | 5 marks       | 4 marks          |
+| 16  | Semiconductor Devices                   | 5 marks       | 4 marks          |
+|     | **Total**                               | **98 marks**  | **70 marks**     |
 
 ---

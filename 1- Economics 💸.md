@@ -5,16 +5,16 @@
 
 ### Key Concepts :
 
-- **Micro Economics** - Study of individual economic units (consumer, firm, industry)
-- **Macro Economics** - Study of economy as a whole (national income, employment, price level)
-- **Origin** - Terms coined by Norwegian economist Ragnar Frisch (1933)
+- **Micro Economics** - Study of individual economic units ( consumer, firm, industry )
+- **Macro Economics** - Study of economy as a whole ( national income, employment, price level )
+- **Origin** - Terms coined by Norwegian economist Ragnar Frisch ( 1933 )
 - **Historical Development** - Micro developed first (Classical economists), Macro after Great Depression ( Keynes, 1936 )
 
 ## Exam-Critical Points :
 
 - **Definitions are frequently asked** - Learn Maurice Dobb's and Prof. Lerner's definitions .
 
-- **Scope comparison** - Micro: Price theory, Factor pricing, Welfare; Macro: Income theory, Growth, Business cycles
+- **Scope comparison** - **Micro** : Price theory, Factor pricing, Welfare ; Macro: Income theory, Growth, Business cycles
 
 - **Features comparison** - Most important for 4-6 mark questions
 - **Importance** - Both theoretical and practical applications asked

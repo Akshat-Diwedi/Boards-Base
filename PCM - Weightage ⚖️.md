@@ -5,25 +5,25 @@
 
 ## Physics :-
 
-| Sr. | Chapter                                 | Wt. With Opt.                                                                                 | Wt. Without Opt.                                                                              |
-| --- | --------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 1   | Rotational Dynamics                     | 7 marks                                                                                       | 5 marks                                                                                       |
-| 2   | Mechanical Properties of Fluids         | 7 marks                                                                                       | 5 marks                                                                                       |
-| 3   | Kinetic Theory of Gases & Radiation     | 7 marks                                                                                       | 5 marks                                                                                       |
-| 4   | Thermodynamics                          | 7 marks                                                                                       | 5 marks                                                                                       |
-| 5   | Wave Optics                             | 7 marks                                                                                       | 5 marks |
-| 6   | Electromagnetic Induction               | 7 marks | 5 marks |
-| 7   | Electrostatics                          | 6 marks | 4 marks |
-| 8   | Current Electricity                     | 6 marks | 4 marks |
-| 9   | Magnetic Fields due to Electric Current | 6 marks | 4 marks |
-| 10  | AC Circuits                             | 6 marks | 4 marks |
-| 11  | Structure of Atoms & Nuclei             | 6 marks | 4 marks |
-| 12  | Oscillations                            | 5 marks | 4 marks |
-| 13  | Superposition of Waves                  | 6 marks | 4 marks |
-| 14  | Magnetic Materials                      | 5 marks | 4 marks |
-| 15  | Dual Nature of Radiation & Matter       | 5 marks | 4 marks |
-| 16  | Semiconductor Devices                   | 5 marks | 4 marks |
-|     | **Total**                               | **98 marks**                                                                                  | **70 marks**                                                                                  |
+| Sr. | Chapter                                 | Wt. With Opt. | Wt. Without Opt. |
+| --- | --------------------------------------- | ------------- | ---------------- |
+| 1   | Rotational Dynamics                     | 7 marks       | 5 marks          |
+| 2   | Mechanical Properties of Fluids         | 7 marks       | 5 marks          |
+| 3   | Kinetic Theory of Gases & Radiation     | 7 marks       | 5 marks          |
+| 4   | Thermodynamics                          | 7 marks       | 5 marks          |
+| 5   | Wave Optics                             | 7 marks       | 5 marks          |
+| 6   | Electromagnetic Induction               | 7 marks       | 5 marks          |
+| 7   | Electrostatics                          | 6 marks       | 4 marks          |
+| 8   | Current Electricity                     | 6 marks       | 4 marks          |
+| 9   | Magnetic Fields due to Electric Current | 6 marks       | 4 marks          |
+| 10  | AC Circuits                             | 6 marks       | 4 marks          |
+| 11  | Structure of Atoms & Nuclei             | 6 marks       | 4 marks          |
+| 12  | Oscillations                            | 5 marks       | 4 marks          |
+| 13  | Superposition of Waves                  | 6 marks       | 4 marks          |
+| 14  | Magnetic Materials                      | 5 marks       | 4 marks          |
+| 15  | Dual Nature of Radiation & Matter       | 5 marks       | 4 marks          |
+| 16  | Semiconductor Devices                   | 5 marks       | 4 marks          |
+|     | **Total**                               | **98 marks**  | **70 marks**     |
 
 ## Chemistry :-
 
